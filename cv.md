@@ -1,15 +1,16 @@
-#Chagochkina Darya
-***
+# Chagochkina Darya
+
+*********
 
 
-##_**Contact information**_:
+## _**Contact information**_:
 **Phone:** +7 (747) 494 04 29
 **Email:** dtora7293@gmail.com
 **Telegram:** [@chagochkinadarya](https://t.me/chagochkinadarya)
 **GitHub:** [chagochkina-darya](https://github.com/DaryaChagochkina)
-***
+********
 
-##_**About me**_
+## _**About me**_
 Hey! I am Darya. I am 26 years old. I was engaged in web design, creation of logos, landings, business cards. I want to gain in-depth knowledge in front-end development. It's hard, but it's worth it!
 
 
@@ -20,14 +21,14 @@ Hey! I am Darya. I am 26 years old. I was engaged in web design, creation of log
     + diligence
 ***
 
-##_**Skills**_
+## _**Skills**_
 + HTML, CSS
 + JavaScript Basics
 + Git, GitHub
 + VS Code, Sublime Text
 + Adobe Photoshop, Illustrator, Figma
 
-##_**Code examples**_
+## _**Code examples**_
 ```
 let initialWeight = x; 
 let targetWeight = y; 
@@ -38,12 +39,12 @@ while (initialWeight > targetWeight) {
   days++;
 }
 ```
-##_**Courses**_
+## _**Courses**_
 + HTML Academy
 + Udemy
 + RS Schools Course (in progress)
 
-##_**Language**_
+## _**Language**_
 + _English_ - Pre-Intermediate (A2)
 + _Russian_ - Native
 
