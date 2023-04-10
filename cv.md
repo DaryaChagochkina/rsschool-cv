@@ -25,26 +25,27 @@ Hey! I am Darya. I am 26 years old. I was engaged in web design, creation of log
 + VS Code, Sublime Text
 + Adobe Photoshop, Illustrator, Figma
 
-Code examples
-let initialWeight = 6000; 
-let targetWeight = 5000; 
+####_**Code examples**_
+```
+let initialWeight = x; 
+let targetWeight = y; 
 let days = 0;
 while (initialWeight > targetWeight) {
   let percent = initialWeight/100*5;
   initialWeight -= percent; 
   days++;
 }
-
-Education
-_University_:
-Courses:
+```
+####_**Courses**_
 + HTML Academy
 + Udemy
 + RS Schools Course (in progress)
 
-English
-A2 (I studied English at school, I practice English whenever possible)
+####_**Language**_
++ _English_ - Pre-Intermediate (A2)
++ _Russian_ - Native
 
+![Alt-rsschool](rs_school.svg "RSSchool")
 
 
 
