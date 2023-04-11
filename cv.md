@@ -2,10 +2,11 @@
 ****
 
  ### _**Contact information**_:
-- **Phone:** +7 (747) 494 04 29  
-- **Email:** dtora7293@gmail.com  
-- **Telegram:** [@chagochkinadarya](https://t.me/chagochkinadarya)  
-- **GitHub:** [chagochkina-darya](https://github.com/DaryaChagochkina)
+**Phone:** +7 (747) 494 04 29  
+**Email:** dtora7293@gmail.com 
+**Telegram:** [@chagochkinadarya](https://t.me/chagochkinadarya) 
+**GitHub:** [chagochkina-darya](https://github.com/DaryaChagochkina)
+
 
 
  ### _**About me**_
@@ -17,7 +18,7 @@ Hey! I am Darya. I am 26 years old. I was engaged in web design, creation of log
     + stress resistance
     + quick learner
     + diligence
-***
+
 
  ### _**Skills**_
 + HTML, CSS
