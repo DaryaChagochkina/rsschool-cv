@@ -40,7 +40,7 @@ while (initialWeight > targetWeight) {
 ```
  ### _**Courses**_
 + HTML Academy
-+ Udemy (Frontend разработчик на HTML, CSS и JavaScript in progress)
++ Udemy (Frontend developer HTML, CSS и JavaScript in progress)
 + RS Schools Course (in progress)
 
  ### _**Language**_
