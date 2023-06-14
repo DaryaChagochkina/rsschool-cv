@@ -1,1 +1,1 @@
-# rsschool-cv
+https://DaryaChagochkina.github.io/rsschool-cv/cv 
